@@ -252,7 +252,7 @@ const productsDef = [
     },
     {
         slug: 'spanner-wrench',
-        name: 'Spanner Wrench',
+        name: 'Hair shampoo MIRACLE',
         price: 19,
         images: [
             'images/products/product-9.jpg',
@@ -274,7 +274,7 @@ const productsDef = [
     },
     {
         slug: 'water-tap',
-        name: 'Water Tap',
+        name: 'Stayling Tools',
         price: 15,
         images: [
             'images/products/product-10.jpg',
@@ -296,7 +296,7 @@ const productsDef = [
     },
     {
         slug: 'hand-tool-kit',
-        name: 'Hand Tool Kit',
+        name: 'Hair oil MACADAMIA',
         price: 20,
         images: [
             'images/products/product-11.jpg',
@@ -340,7 +340,7 @@ const productsDef = [
     },
     {
         slug: 'brandix-angle-grinder-kzx3890pqw',
-        name: 'Brandix Angle Grinder KZX3890PQW',
+        name: 'legs cream',
         price: 18,
         images: [
             'images/products/product-13.jpg',
@@ -362,7 +362,7 @@ const productsDef = [
     },
     {
         slug: 'brandix-air-compressor-deltakx500',
-        name: 'Brandix Air Compressor DELTAKX500',
+        name: 'Natural oil ',
         price: 1800,
         images: [
             'images/products/product-14.jpg',
