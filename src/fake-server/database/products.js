@@ -1,3 +1,4 @@
+
 import { makeIdGenerator } from '../utils';
 import brandsData from './brands';
 import { categoriesListData, prepareCategory } from './categories';
@@ -207,7 +208,7 @@ const productsDef = [
     },
     {
         slug: 'brandix-pliers',
-        name: 'Brandix Pliers',
+        name: 'Brandix',
         price: 24,
         images: [
             'images/products/product-7.jpg',
