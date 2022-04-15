@@ -15,7 +15,7 @@ export default [
                         size: 3,
                         links: [
                             {
-                                title: 'Power Tools',
+                                title: 'Shampoo',
                                 url: '',
                                 links: [
                                     { title: 'Engravers', url: '' },
@@ -37,7 +37,7 @@ export default [
                         size: 3,
                         links: [
                             {
-                                title: 'Hand Tools',
+                                title: 'Seroma',
                                 url: '',
                                 links: [
                                     { title: 'Screwdrivers', url: '' },
