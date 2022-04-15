@@ -230,7 +230,7 @@ const productsDef = [
     },
     {
         slug: 'water-hose-40cm',
-        name: 'Water Hose 40cm',
+        name: 'Elegance plus',
         price: 15,
         images: [
             'images/products/product-8.jpg',
