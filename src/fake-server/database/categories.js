@@ -96,8 +96,8 @@ const categoriesDef = [
                         items: 104,
                     },
                     {
-                        name: 'Milling Machines',
-                        slug: 'milling-machines',
+                        name: 'Milling Machinessss',
+                        slug: 'milling-machinesssss',
                         items: 12,
                     },
                     {

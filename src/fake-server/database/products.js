@@ -164,7 +164,7 @@ const productsDef = [
     },
     {
         slug: 'brandix-router-power-tool-2017erxpk',
-        name: 'Brandix Router Power Tool 2017ERXPK',
+        name: 'oxygenated water  ',
         price: 1700,
         images: [
             'images/products/product-5.jpg',
@@ -186,7 +186,7 @@ const productsDef = [
     },
     {
         slug: 'brandix-drilling-machine-dm2019kw4-4kw',
-        name: 'Brandix Drilling Machine DM2019KW4 4kW',
+        name: 'Makeup Remover',
         price: 3199,
         images: [
             'images/products/product-6.jpg',
@@ -296,7 +296,7 @@ const productsDef = [
     },
     {
         slug: 'hand-tool-kit',
-        name: 'Hair oil MACADAMIAa',
+        name: 'Hair oil MACADAMIA',
         price: 20,
         images: [
             'images/products/product-11.jpg',

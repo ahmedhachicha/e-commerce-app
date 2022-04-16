@@ -32,7 +32,7 @@ export default [
         image: 'images/categories/category-4.jpg',
         subcategories: [
             { title: 'Lathes', url: '/shop' },
-            { title: 'Milling Machines', url: '/shop' },
+            { title: 'Milling Machinesssss', url: '/shop' },
             { title: 'Grinding Machines', url: '/shop' },
             { title: 'CNC Machines', url: '/shop' },
             { title: 'Sharpening Machines', url: '/shop' },
