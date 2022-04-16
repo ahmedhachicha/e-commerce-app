@@ -118,7 +118,7 @@ const categoriesDef = [
                 ],
             },
             {
-                name: 'Power Machinery',
+                name: 'Face Cream',
                 slug: 'power-machinery',
                 image: 'assets/images/categories/category-4.jpg',
                 items: 79,
@@ -151,7 +151,7 @@ const categoriesDef = [
                 ],
             },
             {
-                name: 'Measurement',
+                name: 'Wax',
                 slug: 'measurement',
                 image: 'assets/images/categories/category-5.jpg',
                 items: 366,

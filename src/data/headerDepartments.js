@@ -1,6 +1,6 @@
 export default [
     {
-        title: 'Power Tools',
+        title: 'Hair Seroma',
         url: '',
         submenu: {
             type: 'megamenu',
@@ -97,7 +97,7 @@ export default [
         },
     },
     {
-        title: 'Hand Tools',
+        title: 'Hair Seroma',
         url: '',
         submenu: {
             type: 'megamenu',
@@ -112,7 +112,7 @@ export default [
                         size: 4,
                         links: [
                             {
-                                title: 'Hand Tools',
+                                title: 'Hair Seroma',
                                 url: '',
                                 links: [
                                     { title: 'Screwdrivers', url: '' },
@@ -139,7 +139,7 @@ export default [
                         size: 4,
                         links: [
                             {
-                                title: 'Machine Tools',
+                                title: 'Keratin',
                                 url: '',
                                 links: [
                                     { title: 'Thread Cutting', url: '' },
@@ -172,7 +172,7 @@ export default [
         },
     },
     {
-        title: 'Machine Tools',
+        title: 'Keratin',
         url: '',
         submenu: {
             type: 'megamenu',
@@ -187,7 +187,7 @@ export default [
                         size: 6,
                         links: [
                             {
-                                title: 'Hand Tools',
+                                title: 'Hair Seroma',
                                 url: '',
                                 links: [
                                     { title: 'Screwdrivers', url: '' },
