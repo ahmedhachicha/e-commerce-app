@@ -1,5 +1,5 @@
 const brandsData = [
-    { name: 'Brandix', slug: 'brandix', image: 'assets/images/logos/logo-1.png' },
+    { name: 'Brandix 12', slug: 'brandix', image: 'assets/images/logos/logo-1.png' },
     { name: 'Wakita', slug: 'wakita', image: 'assets/images/logos/logo-2.png' },
     { name: 'Zosch', slug: 'zosch', image: 'assets/images/logos/logo-3.png' },
     { name: 'WeVALT', slug: 'wevalt', image: 'assets/images/logos/logo-4.png' },

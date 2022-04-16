@@ -151,7 +151,7 @@ const productsDef = [
         rating: 3,
         reviews: 15,
         availability: 'in-stock',
-        brand: 'brandix',
+        brand: 'brandix 11',
         categories: [],
         attributes: [
             { slug: 'color', values: 'white' },
@@ -296,7 +296,7 @@ const productsDef = [
     },
     {
         slug: 'hand-tool-kit',
-        name: 'Hair oil MACADAMIA',
+        name: 'Hair oil MACADAMIAa',
         price: 20,
         images: [
             'images/products/product-11.jpg',
