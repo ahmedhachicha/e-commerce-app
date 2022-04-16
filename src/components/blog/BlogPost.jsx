@@ -42,7 +42,7 @@ export default function BlogPost(props) {
                 <div className="post-header__categories">
                     <Link to="/">Latest news</Link>
                 </div>
-                <h1 className="post-header__title">Morbi Interdum Velit Quis Magna Placerat Lobortis Eget</h1>
+                <h1 className="post-header__title">Gel Pack</h1>
                 <div className="post-header__meta">
                     <div className="post-header__meta-item">
                         By

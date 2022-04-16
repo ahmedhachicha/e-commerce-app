@@ -18,9 +18,9 @@ export default function BlockBanner() {
                         style={{ backgroundImage: 'url("images/banners/banner-1-mobile.jpg")' }}
                     />
                     <div className="block-banner__title">
-                        Hundreds
+                        Hair
                         <br className="block-banner__mobile-br" />
-                        Hand Tools
+                        Repair
                     </div>
                     <div className="block-banner__text">
                         Hammers, Chisels, Universal Pliers, Nippers, Jigsaws, Saws
