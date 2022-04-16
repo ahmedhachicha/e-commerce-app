@@ -18,12 +18,12 @@ export default function BlockBanner() {
                         style={{ backgroundImage: 'url("images/banners/banner-1-mobile.jpg")' }}
                     />
                     <div className="block-banner__title">
-                        Hair
+                        
                         <br className="block-banner__mobile-br" />
-                        Repair
+                        
                     </div>
                     <div className="block-banner__text">
-                        Hammers, Chisels, Universal Pliers, Nippers, Jigsaws, Saws
+                     
                     </div>
                     <div className="block-banner__button">
                         <span className="btn btn-sm btn-primary">Shop Now</span>
