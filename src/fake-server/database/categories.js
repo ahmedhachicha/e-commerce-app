@@ -9,7 +9,7 @@ const categoriesDef = [
         items: 272,
         children: [
             {
-                name: 'Power Tools',
+                name: 'Natural Shampoo',
                 slug: 'power-tools',
                 image: 'assets/images/categories/category-1.jpg',
                 items: 370,

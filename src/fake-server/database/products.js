@@ -140,7 +140,7 @@ const productsDef = [
     },
     {
         slug: 'drill-series-3-brandix-ksr4590pqs-1500-watts',
-        name: 'Drill Series 3 Brandix KSR4590PQS 1500 Watts',
+        name: 'Hair Cream',
         price: 949,
         compareAtPrice: 1189,
         images: [
@@ -384,7 +384,7 @@ const productsDef = [
     },
     {
         slug: 'brandix-electric-jigsaw-jig7000bq',
-        name: 'Brandix Electric Jigsaw JIG7000BQ',
+        name: 'Power Gel',
         price: 290,
         images: [
             'images/products/product-15.jpg',
@@ -406,7 +406,7 @@ const productsDef = [
     },
     {
         slug: 'brandix-screwdriver-screw1500acc',
-        name: 'Brandix Screwdriver SCREW1500ACC',
+        name: 'Babies Pack',
         price: 1499,
         images: [
             'images/products/product-16.jpg',

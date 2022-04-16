@@ -1,6 +1,6 @@
 export default [
     {
-        title: 'Power Tools',
+        title: 'Natural Shampoo',
         url: '/shop',
         products: 572,
         image: 'images/categories/category-1.jpg',
@@ -13,7 +13,7 @@ export default [
         ],
     },
     {
-        title: 'Hand Tools',
+        title: 'Hair Seroma',
         url: '/shop',
         products: 134,
         image: 'images/categories/category-2.jpg',
@@ -26,7 +26,7 @@ export default [
         ],
     },
     {
-        title: 'Machine Tools',
+        title: 'Keratin',
         url: '/shop',
         products: 301,
         image: 'images/categories/category-4.jpg',
@@ -39,7 +39,7 @@ export default [
         ],
     },
     {
-        title: 'Power Machinery',
+        title: 'Face Cream',
         url: '/shop',
         products: 79,
         image: 'images/categories/category-3.jpg',
@@ -52,7 +52,7 @@ export default [
         ],
     },
     {
-        title: 'Measurement',
+        title: 'Wax',
         url: '/shop',
         products: 366,
         image: 'images/categories/category-5.jpg',
@@ -65,7 +65,7 @@ export default [
         ],
     },
     {
-        title: 'Clothes and PPE',
+        title: 'Seroma',
         url: '/shop',
         products: 81,
         image: 'images/categories/category-6.jpg',

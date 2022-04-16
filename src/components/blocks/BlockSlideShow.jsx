@@ -61,8 +61,7 @@ class BlockSlideShow extends Component {
             },
         },
         {
-            title: 'One more<br>Unique header',
-            text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Etiam pharetra laoreet dui quis molestie.',
+            
             image_classic: {
                 ltr: 'images/slides/slide-3-ltr.jpg',
                 rtl: 'images/slides/slide-3-rtl.jpg',

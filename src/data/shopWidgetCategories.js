@@ -39,7 +39,7 @@ export default [
     },
     {
         id: 21,
-        name: 'Machine Tools',
+        name: 'Keratin',
         url: '',
         children: [
             { id: 22, name: 'Thread Cutting', url: '' },
