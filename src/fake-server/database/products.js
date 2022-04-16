@@ -72,7 +72,7 @@ const attributesDef = [
 const productsDef = [
     {
         slug: 'electric-planer-brandix-kl370090g-300-watts',
-        name: 'Electric Planer Brandix KL370090G 300 Watts',
+        name: 'Leave-in Cream',
         price: 749,
         images: [
             'images/products/product-1.jpg',
@@ -95,7 +95,7 @@ const productsDef = [
     },
     {
         slug: 'undefined-tool-iradix-dps3000sy-2700-watts',
-        name: 'Undefined Tool IRadix DPS3000SY 2700 Watts',
+        name: 'Spray Dinsinfectant',
         price: 1019,
         images: [
             'images/products/product-2.jpg',
@@ -118,7 +118,7 @@ const productsDef = [
     },
     {
         slug: 'drill-screwdriver-brandix-alx7054-200-watts',
-        name: 'Drill Screwdriver Brandix ALX7054 200 Watts',
+        name: 'Hand And Nail Cream',
         price: 850,
         images: [
             'images/products/product-3.jpg',
